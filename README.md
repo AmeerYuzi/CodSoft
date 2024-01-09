@@ -1,5 +1,5 @@
 # CodSoft
-During my** internship at CodSoft**, I had the opportunity to immerse myself in the dynamic world of **web development**, gaining hands-on experience and contributing to real-world projects. The internship spanned from December 10th to January 10th, providing a comprehensive exposure to various aspects of web development.
+During my **internship at CodSoft** , I had the opportunity to immerse myself in the dynamic world of **web development**, gaining hands-on experience and contributing to real-world projects. The internship spanned from December 10th to January 10th, providing a comprehensive exposure to various aspects of web development.
 **Key Responsibilities and Achievements:**
 **Front-End Development:**
 Worked extensively on creating responsive and user-friendly interfaces using HTML, CSS, and JavaScript.
